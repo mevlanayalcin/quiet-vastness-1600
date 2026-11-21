@@ -1,15 +1,17 @@
 import os
 
 TEXT = (
-    "The porch boards hold the last of the sun.\n"
-    "A cup of tea goes cool by the rail.\n"
+    "You lie back in the warm bath.\n"
+    "A drop from the tap. A long while. A drop.\n"
+    "Your ears go under,\n"
+    "the house low and far.\n"
     "\n"
-    "Down the hill, the river\n"
-    "turns one stone a little rounder,\n"
-    "as it has each evening\n"
-    "for ten thousand years,\n"
-    "and will,\n"
-    "for ten thousand more."
+    "Half this water was made in the dark\n"
+    "before the sun was lit.\n"
+    "It fell in the first rain,\n"
+    "filled the first sea,\n"
+    "and now holds you up,\n"
+    "warm to your chin."
 )
 
 out = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
