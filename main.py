@@ -1,15 +1,14 @@
 import os
 
 TEXT = (
-    "You are small in the warm bath.\n"
-    "Your mother pours a cup over your back.\n"
-    "Dip. A slow pour. A long while.\n"
-    "Half that water was made in the dark\n"
-    "before the sun was lit.\n"
-    "It fell in the first rain,\n"
-    "filled the first sea,\n"
-    "and now runs warm over you.\n"
-    "She dips the cup again."
+    "Your father walks the lane home.\n"
+    "You fall asleep on his shoulder.\n"
+    "A slow step. A sway. Gravel under his boot.\n"
+    "Under him, the solid earth lifts\n"
+    "toward the moon and settles back,\n"
+    "as it has since the first night,\n"
+    "so softly not one dewdrop slips,\n"
+    "carrying him, carrying you."
 )
 
 out = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
