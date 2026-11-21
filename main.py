@@ -2,12 +2,12 @@ import os
 
 TEXT = (
     "Your father walks the lane home.\n"
-    "You fall asleep on his shoulder.\n"
+    "You fall asleep warm on his shoulder.\n"
     "A slow step. A sway. Gravel under his boot.\n"
-    "Under him, the solid earth lifts\n"
-    "toward the moon and settles back,\n"
-    "as it has since the first night,\n"
-    "so softly not one dewdrop slips,\n"
+    "Like the sea, these solid hills\n"
+    "rise toward the moon and settle back,\n"
+    "every night since the first,\n"
+    "so gently no dewdrop slips,\n"
     "carrying him, carrying you."
 )
 
