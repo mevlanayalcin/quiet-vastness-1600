@@ -4,11 +4,11 @@ TEXT = (
     "Your father walks the lane home.\n"
     "You fall asleep warm on his shoulder.\n"
     "A slow step. A sway. Gravel under his boot.\n"
-    "Like the sea, these solid hills\n"
-    "rise toward the moon and settle back,\n"
-    "every night since the first,\n"
-    "so gently no dewdrop slips,\n"
-    "carrying him, carrying you."
+    "With each step, the whole earth\n"
+    "glides twenty miles through the dark,\n"
+    "so softly no leaf stirs,\n"
+    "carrying the lane, him, and you\n"
+    "all the way round the sun."
 )
 
 out = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
