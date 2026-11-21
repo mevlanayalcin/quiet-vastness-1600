@@ -1,16 +1,15 @@
 import os
 
 TEXT = (
-    "You lie warm under the quilt.\n"
-    "The curtain lifts at the window.\n"
-    "Hangs. A long while. Falls back.\n"
-    "\n"
-    "Under the house, the moon lifts\n"
-    "the solid rock of the earth\n"
-    "a foot, and sets it down,\n"
-    "hills, roof, and bed,\n"
-    "twice a day since the first night,\n"
-    "so softly you stay asleep."
+    "You fall asleep under the quilt.\n"
+    "Your mother's warm hand rests on your back.\n"
+    "A rise. A long while. A fall.\n"
+    "Under you, the moon lifts\n"
+    "solid rock a foot and lowers it,\n"
+    "hills, house, and bed,\n"
+    "so softly nothing stirs,\n"
+    "twice a day since the first night.\n"
+    "Her hand stays."
 )
 
 out = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
